@@ -1,4 +1,4 @@
-const input = "123abc";
+const input = "123abc45";
 let sum = 0;
 
 for (let i of input) {
